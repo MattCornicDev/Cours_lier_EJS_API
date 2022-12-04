@@ -1,4 +1,7 @@
-# STARTING-FILES-EJS
 
-EJS STARTING FILES FOR MY STUDENTS
+EJS
 # Cours_lier_EJS_API
+
+Install
+# npm install
+# yarn 
